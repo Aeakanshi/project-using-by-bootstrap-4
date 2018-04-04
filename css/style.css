@@ -1,0 +1,56 @@
+.header {
+  padding: 10px 0;
+}
+/*.header .row*/ img {
+  width: 40px;
+}
+/*.header*/ .offerte-aanvragen {
+    background-color: #24b3e1;
+    border-radius: 0px;
+    text-transform: uppercase;
+    border:none;
+    color: #fff;
+}
+/*.offerte-aanvragen label {
+  color: #fff;
+  padding-top: 12px;
+}*/
+.menu {
+  background-color: #000;
+}
+.menu .navbar {
+  background-color: #000;
+}
+.menu .navbar .navbar-toggler {
+  background-color: #fff;
+  border-radius: 0;
+}
+.menu .navbar .nav-link {
+  color:#fff !important;
+}
+.menu .navbar-nav .nav-link:hover {
+  border-bottom: 1px solid #fff;
+}
+.banner {
+  width: 100%;
+  position: relative;
+  background: url(../img/banner.png) bottom center no-repeat;
+  background-size: cover;
+  background-position: center;
+/*  height: 56vh;*/
+  overflow: hidden; 
+  margin-bottom: 0;
+}
+.banner p, .banner h1 , .banner .btn-outline-primary {
+  color: #fff;
+}
+.grid {
+  background-color: #ebebeb;
+  padding: 4rem 2rem;
+}
+.grid .card {
+  background-color:#878786;
+  color: #fff;
+  border-radius:1px;
+}
+.grid .card a {color: #000;}
